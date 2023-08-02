@@ -56,7 +56,8 @@
 2.  ***Get a Mongodb uri from [`Mongodb`](https://github.com/SamPandey001/Secktor-Md/wiki/Mongodb-URI) | [`Tutorial`](https://youtu.be/6rnftFl0fAI).***
 3.  ***Click [`FORK`](https://github.com/IR-KING/Secktor-bot/fork) and `Star ⭐` Repo.***
 4.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
-5.  ***Deploy on [`HEROKU`](https://IR-KING-Md001-0c28c330d2b2.herokuapp.com/heroku)***
+5.  #### Heroku Deployment Method
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/IR-KING/Secktor-Md&template=https://github.com/IR-KING/Secktor-Md.git)***
 6.  ***Deploy on [`Replit`](https://repl.it/github/IR-KING/Secktor-bot)***
 ##
 
