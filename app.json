@@ -1,7 +1,7 @@
 {
-  "name": "Secktor-Md By Suhail Tech Info",
+  "name": "IR-KING",
   "description": "A Whatsapp md bot built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/c/SuhailTechInfo",
-  "logo": "https://telegra.ph/file/ec9bc5038601821f2eb84.jpg",
+  "logo": "https://telegra.ph/file/ec9bc5038601821f2eb4.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "SecktorBot", "Secktor","SecktorMD","theme bot","multi device"],
   "success_url": "/",
   "stack": "container",
